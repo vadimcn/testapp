@@ -1,0 +1,9 @@
+[package]
+name = "testapp"
+version = "0.1.0"
+authors = ["Vadim Chugunov <vadimcn@gmail.com>"]
+
+[dependencies]
+lib1 = { path = "lib1" }
+lib2 = { path = "lib2" }
+lib3 = { path = "lib3" }
